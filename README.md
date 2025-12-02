@@ -1,11 +1,6 @@
 # 🧭 Lesson 6 — Advanced CRUD Operations (MongoDB)
-### **Canvas Document — Extended Lesson (Regenerated)**
 
-This extended lesson covers **Advanced READ, UPDATE, and DELETE operations** in MongoDB. It is designed as a deeper follow‑up to the basic CRUD lesson and prepares students for real‑world MongoDB usage in backend applications.
-
----
-
-# 🎯 Learning Objectives
+## 🎯 Learning Objectives
 By the end of this lesson, students will be able to:
 - Use **advanced querying (READ)** techniques including comparison operators, logical operators, array queries, projections, sorting, and pagination.
 - Apply **advanced UPDATE** operations including nested updates, array manipulation, field renaming, incrementing values, and upserts.
