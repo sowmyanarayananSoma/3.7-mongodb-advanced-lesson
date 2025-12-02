@@ -378,10 +378,10 @@ Choose **ONE** dataset from the list below and practice **every querying method*
 - **`sample_weatherdata`** – weather metrics & reports
 
 ---
-## ✔ What You Must Practice
+## What You Must Practice
 Use your chosen dataset to perform **ALL** of the following:
 
-### ✔ READ (Find)
+### READ (Find)
 - Find using multiple fields (implicit AND)
 - OR queries using `$or`
 - Comparison operators: `$gt`, `$lt`, `$gte`, `$lte`
@@ -389,21 +389,21 @@ Use your chosen dataset to perform **ALL** of the following:
 - Sorting
 - Pagination using `.skip()` + `.limit()`
 
-### ✔ COUNT
+### COUNT
 - Count documents with simple or multiple conditions
 
-### ✔ UPDATE
+### UPDATE
 - `$set`
 - `$inc` (increment & decrement)
 - `$unset`
 - Array updates: `$push`, `$pull`, `$addToSet`
 - Update using filters like `{ age: { $gt: X } }`
 
-### ✔ DELETE
+### DELETE
 - `deleteOne`
 - `deleteMany` with multiple conditions
 
-### ✔ AGGREGATION (Simplest Forms)
+### AGGREGATION (Simplest Forms)
 - `$sum`
 - `$avg`
 - Group by a field (e.g., year, city, userId)
@@ -411,5 +411,5 @@ Use your chosen dataset to perform **ALL** of the following:
 ---
 
 # 🎯 Final Outcome
-Students gain hands‑on experience with **real‑world MongoDB operations**, preparing them for backend development, REST API building, and full‑stack projects.
+You gain hands‑on experience with **real‑world MongoDB operations**, preparing them for backend development, REST API building, and full‑stack projects.
 
